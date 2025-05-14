@@ -5,7 +5,7 @@
   -Sou aluna de programação
   -Estou estudando na [Alura] 
 
-### VOCÊ PODE EMTRAR EM CONTADO COMIGO
+### VOCÊ PODE ENTRAR EM CONTADO COMIGO
 
    erika.boron@escola.pr.gov.br
 
